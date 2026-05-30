@@ -27,7 +27,7 @@ The diagram below illustrates the end-to-end data flow and structural tiers of t
 ## 4. Security & Privacy Process Flow
 The flow below highlights the data safety checkpoints, illustrating the identity validation, role-based filtration, data masking, and structural AI guardrails embedded within the system architecture.
 
-![Security Architecture](fluxo_seguranca.png)
+!(Security Architecture Diagram-Diagram 2 .drawio.png)
 
 ---
 
