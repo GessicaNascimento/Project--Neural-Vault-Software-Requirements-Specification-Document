@@ -20,7 +20,7 @@
 ## 3. General Architecture Blueprint
 The diagram below illustrates the end-to-end data flow and structural tiers of the system, managing asynchronous data ingestion up to the RAG processing pipeline.
 
-![General Architecture](arquitetura_geral.png)
+!General Architecture Diagram-Diagram 1.drawio.png)
 
 ---
 
