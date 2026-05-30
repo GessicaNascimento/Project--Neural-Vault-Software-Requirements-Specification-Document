@@ -21,8 +21,6 @@
 The General Architecture diagram illustrates the end-to-end data flow and structural tiers of the system, managing asynchronous data ingestion up to the RAG processing pipeline.
 
 
-)]
-
 ---
 
 ## 4. Security & Privacy Process Flow
